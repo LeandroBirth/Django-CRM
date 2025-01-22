@@ -3,6 +3,9 @@
 
 This is a Django-based CRM application designed for managing contacts. It provides features such as user registration, login, logout, password changes, and profile updates. The project is built using Django and Python, and it includes a user-friendly UI.
 
+<img width="904" alt="Screenshot 2025-01-22 at 18 19 52" src="https://github.com/user-attachments/assets/690d855a-b7b8-47c3-8ef4-d2f12e070168" />
+
+
 ### Features
 - **User Management**:
   - Registration
